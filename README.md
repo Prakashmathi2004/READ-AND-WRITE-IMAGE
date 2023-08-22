@@ -84,26 +84,28 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/READ-AND-WRITE-IMAGE/assets/118350045/eea8f2a1-8b41-4b90-8100-b3cec1ede07b)
+
 
 ### ii)Write the image
 
-<br>
-<br>
+<img width="724" alt="image" src="https://github.com/Prakashmathi2004/READ-AND-WRITE-IMAGE/assets/118350045/8d36bc51-2618-477c-924d-0028c3a77be4">
+
 
 ### iii)Shape of the Image
 
-<br>
-<br>
+<img width="294" alt="image" src="https://github.com/Prakashmathi2004/READ-AND-WRITE-IMAGE/assets/118350045/07f1f44b-048b-47b9-9bc9-ccb3f842b11d">
+
 
 ### iv)Access rows and columns
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/READ-AND-WRITE-IMAGE/assets/118350045/c019bd9f-49bf-46f8-a7ec-2c230be12e8d)
+
+
 
 ### v)Cut and paste portion of image
-<br>
-<br>
+![image](https://github.com/Prakashmathi2004/READ-AND-WRITE-IMAGE/assets/118350045/f901a664-3787-404b-b89b-e9de7b4ae095)
+
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
